@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Arco consultoria
-- 🌱 I’m currently learning Maker Studio/HTML/CSS/JS                                                                                                         C#
+- 🌱 I’m currently learning Maker Studio/HTML/CSS/JS                                                                                                     
 - 👯 I’m looking to collaborate on SIGA
 - 🤔 I’m looking for help with new features in SIGA
 - 💬 Ask me about ...
