@@ -1,4 +1,8 @@
 ### Hi there 👋
+## My name is Italo Braga ! 
+### Welcome to my GitHub profile 👋
+
+
 - 🔭 I’m currently working on Arco consultoria
 - 🌱 I’m currently learning Maker Studio/HTML/CSS/JS                                                                                                     
 - 👯 I’m looking to collaborate on SIGA
