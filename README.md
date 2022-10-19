@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Arco consultoria
-- 🌱 I’m currently learning Maker Studio/Angular                                                                                                  
+- 🌱 I’m currently learning Maker Studio/Angular/C#                                                                                                  
 - 👯 I’m looking to collaborate on SIGA
 - 🤔 I’m looking for help with new features in SIGA
 - 💬 Ask me about ...
