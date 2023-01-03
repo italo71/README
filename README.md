@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on Arco consultoria
 - 🌱 I’m currently learning Angular and C#                                                                                                  
-- 👯 I’m looking to collaborate on SIGA
-- 🤔 I’m looking for help with new features in SIGA
+- 👯 I’m looking to collaborate on SIGAPARTS
+- 🤔 I’m looking for help with new features in SIGAPARTS
 - 💬 Ask me about anything
 - 📫 How to reach me: send me an email: italo7.braga@gmail.com
 - ⚡ Fun fact: I drink coffee without sugar
