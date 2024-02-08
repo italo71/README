@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Prefeitura Municipal de Igarapé
-- 🌱 I’m currently learning Angular and C#                                                                                                  
+- 🌱 I’m currently learning Angular, Node.JS and C#
 - 👯 I’m looking to collaborate on Mapa Cultural Igarapé
 - 🤔 I’m looking for help with new features in Mapa Cultural Igarapé
 - 💬 Ask me about anything
